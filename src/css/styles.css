@@ -18,3 +18,13 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.country-list {
+  list-style: none;
+  width: 300px;
+}
+
+.country-item {
+margin-bottom: 16px;
+border-bottom: dashed 1px #5235f2;
+}
